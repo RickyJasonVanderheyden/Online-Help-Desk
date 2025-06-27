@@ -11,6 +11,7 @@ Staff members can:
 - Manage support tickets
 - Oversee scheduling
 - Perform system administration
+- secure login
 
 ## Tools & Technologies
 
@@ -28,7 +29,7 @@ Staff members can:
 - Ticketing system for student support
 - Exam registration functionality
 - Shuttle service booking for students
-- Secure payment module
+- Secure login
 - Admin and staff dashboards for management
 
 ## Installation & Setup
