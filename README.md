@@ -10,7 +10,6 @@ A role-based university help desk application enables students to:
 Staff members can:
 - Manage support tickets
 - Oversee scheduling
-- Process payments
 - Perform system administration
 
 ## Tools & Technologies
